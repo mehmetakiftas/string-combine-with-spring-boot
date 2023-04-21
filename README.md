@@ -42,3 +42,7 @@ After that, go to localhost:8080 in your browser.
 
 ## Authors
 * **Mehmet Akif Taş** - [Website](https://akiftas.dev)
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
