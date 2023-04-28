@@ -41,7 +41,8 @@ After that, go to localhost:8080 in your browser.
 
 
 ## Authors
-* **Mehmet Akif Taş** - [Website](https://akiftas.dev)
+* **Mehmet Akif Tas** - [Website](https://akiftas.dev)
+* **Kutay Isik** - [Github](https://github.com/MrKutay)
 
 
 ## License
