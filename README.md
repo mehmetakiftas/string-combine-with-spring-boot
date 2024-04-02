@@ -1,4 +1,4 @@
-# String Combine with Spring Boot
+![image](https://github.com/mehmetakiftas/string-combine-with-spring-boot/assets/115368571/bc2f30a2-fb9b-4230-86d5-2411923ed46b)# String Combine with Spring Boot
 It's a school project that we can combine more than 2 strings with common words and add these words and their combined version to MongoDB database. Even if there are no common words in the words, it still adds these words to the database.
 
 
@@ -19,6 +19,8 @@ After that, go to localhost:8080 in your browser.
 
 ### Home Page
 ![image](https://user-images.githubusercontent.com/115368571/233740701-77d5d962-bd5b-4eb7-82d5-da5ce08895b1.png)
+![image](https://github.com/mehmetakiftas/string-combine-with-spring-boot/assets/115368571/2e49e7bb-8a58-42b0-920b-45ce2870005a)
+
 *You can write your words or sentence in input file and add text.*
 
 *After finish adding words, click the combine button.*
